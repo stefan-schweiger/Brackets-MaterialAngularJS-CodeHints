@@ -1,14 +1,14 @@
 {
-    "title": "AngularJS Code Hints",
-    "name": "brackets-angularjs-codehints",
-    "description": "Extend Brackets HTML code hints and collif's Brackets-HTML5CodeHints with AngularJS elements like ng-include, ng-view and attributes such as ng-class, ng-controller, ng-app",
+    "title": "Material-AngularJS Code Hints",
+    "name": "brackets-materialangularjs-codehints",
+    "description": "Extend Brackets HTML code hints and collif's Brackets-HTML5CodeHints with Material-AngularJS elements like ng-include, ng-view, md-button, md-sidenav, md-tabs, md-toast and attributes such as ng-class, ng-controller, ng-app",
     "version": "0.0.2",
-    "keywords":["angular","angularjs","autocomplete","html5","html", "template"],
-    "author": "Sirajuddin Choudhary",
-    "homepage": "https://github.com/sirajc/Brackets-AngularJS-CodeHints/",
+    "keywords":["angular","angularjs","material","material.angularjs.org","paper-elements","materialangular","angularmaterial","autocomplete","html5","html", "template"],
+    "author": "Alexander Stracker",
+    "homepage": "https://github.com/strabu/Brackets-MaterialAngularJS-CodeHints/",
     "repository": {
         "type": "git",
-        "url": "git@github.com:sirajc/Brackets-AngularJS-CodeHints.git"
+        "url": "git@github.com:strabu/Brackets-MaterialAngularJS-CodeHints.git"
     },
     "engines": {
         "brackets": ">=0.41.0"

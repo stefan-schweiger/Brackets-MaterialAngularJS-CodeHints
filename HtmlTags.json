@@ -124,5 +124,6 @@
     "ng-pluralize":   { "attributes": ["count", "when", "offset"] },
     "ng-transclude":  { "attributes": [] },
     "ng-include":     { "attributes": ["src"] },
-    "ng-view":        { "attributes": [] }
+    "ng-view":        { "attributes": [] },
+    "md-button": { "attributes": ["ariaLabel", "class", "href", "mdNoInk", "ng-disabled"] }
 }
