@@ -1,7 +1,7 @@
 {
     "title": "Material-AngularJS Code Hints",
     "name": "brackets-materialangularjs-codehints",
-    "description": "Extend Brackets HTML code hints and collif's Brackets-HTML5CodeHints with Material-AngularJS elements like ng-include, ng-view, md-button, md-sidenav, md-tabs, md-toast and attributes such as ng-class, ng-controller, ng-app",
+    "description": "Extend Brackets HTML code hints and collif's Brackets-HTML5CodeHints with Material-AngularJS elements like md-button, md-sidenav, md-tabs, md-toast",
     "version": "0.0.2",
     "keywords":["angular","angularjs","material","material.angularjs.org","paper-elements","materialangular","angularmaterial","autocomplete","html5","html", "template"],
     "author": "Alexander Stracker",
